@@ -1,18 +1,28 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "UnknownManufacturer/dronematters/ARMATTAN-MINI-CF-QUAD-TRI-KIT---\"MORPHLING\"",
+    "esc": "Kiss 30A",
+    "motor": "Cobra/CM-2204-2300kv",
+    "fc": "Seriously-Pro/SP-Racing-F3-(Acro)",
+    "prop": [
+      "HQProp/5x4.5-CF-BN",
+      "HQProp/6x4.5-CF-DD",
+      "HQProp/6x4.5-CF-BN"
+    ],
+    "arm": "",
+    "battery": [
+      "Dinogy/4S-1300mAh-65C",
+      "Dinogy/4S-1800mAh-65C",
+      "Dinogy/3S-1300mAh-65C",
+      "Dinogy/3S-1800mAh-30C"
+    ],
+    "osd": "PowerOSD",
+    "receiver": "FrSky/X4RSB",
+    "flightcam": "HS1177",
+    "hqcam": "SpyTec/Mobius-Action-Cam-Wide-Angle",
+    "videotx": "TS5828 600mW",
+    "blackbox": "",
+    "voltagereg": "Pololu/5V,-1A-Step-Down-Voltage-Regulator-D24V10F5"
+  },
+  "version": 1
 }
