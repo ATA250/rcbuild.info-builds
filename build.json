@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Teslaquad Mk6 180mm",
+    "esc": "Flyduino/KISS-18A",
+    "motor": "Sunnysky 1306 3100KV",
+    "fc": "ReadyMadeRC/Seriously-Dodo",
+    "prop": [
+      "HQProp/4x4.5-FG-BN"
+    ],
+    "arm": "",
+    "battery": [
+      "Turnigy Nano-Tech 3S 850mAh 45-90C"
+    ],
+    "osd": "PowerOSD",
+    "receiver": "FrSky/X4RSB",
+    "flightcam": "HS1177",
+    "hqcam": "SpyTec/Mobius-Action-Cam-Wide-Angle",
+    "videotx": "Elgae/TS5832-2000mW-5.8GHz-32CH-FPV-Transmitter",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
