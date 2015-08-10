@@ -15,7 +15,7 @@
     "receiver": "FrSky/X4RSB",
     "flightcam": "HS1177",
     "hqcam": "SpyTec/Mobius-Action-Cam-Wide-Angle",
-    "videotx": "Elgae/TS5832-2000mW-5.8GHz-32CH-FPV-Transmitter",
+    "videotx": "Skyzone/TS5823-200mw-video-transmitter",
     "blackbox": "",
     "voltagereg": ""
   },
